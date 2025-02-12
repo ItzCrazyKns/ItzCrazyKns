@@ -14,4 +14,3 @@ More projects are in progress.
 
 ## 📫 Contact Me
 - **Discord**: `itzcrazykns`
-- **Email**: `kushagra20103@gmail.com`
