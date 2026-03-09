@@ -8,7 +8,7 @@ If someone says to me that AI will take over the world, I have one thing to say:
 Neural networks just try hard.
 
 ## 🚀 Projects
-- **Perplexica**: An AI powered answering engine.
+- **Vane**: An AI powered answering engine.
 - **Epoch**: An interactive generative UI for LLMs
 
 More projects are in progress.
